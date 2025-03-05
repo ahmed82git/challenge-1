@@ -84,4 +84,5 @@ h2 ,ol, ul , li, span{
 }
 .nut{
     background-color: white;
+    max-width: 550px;
 }
